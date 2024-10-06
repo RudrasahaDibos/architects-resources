@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
-/* shared section
- */
+
 *{
     font-family: "Lato", sans-serif;
     font-family: "Open Sans", sans-serif;
@@ -8,11 +7,6 @@
     
  
 }
-.btn-banner{
-    background-color: rgb(248, 137, 0);
-}
-
-/* header section */
 header{
     background-color: rgba(255,144,14,0.10);
     padding: 50px 240px;
@@ -42,17 +36,7 @@ nav li{
  }
 
  /* banner style */
-
- .banner-content{
+ 
+ .banner-contain{
     max-width: 800px;
-    text-align: center;
-    margin: 0 auto;
- }
- .banner-title{
-    font-size: 4rem;
-    font-weight: 700;
-    color: #141414;
- }
- .banner-discription{
-    color: #141414;
  }
