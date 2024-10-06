@@ -101,11 +101,8 @@ nav li{
     header{
         padding: 20px;
     }
-    nav, .team-container{
+    nav{
         flex-direction: column;
-    }
-    .team-container-img{
-        grid-template-columns: repeat(1,1fr);
     }
     
  }
@@ -114,10 +111,7 @@ nav li{
     header{
         padding: 50px;
     }
-    nav,.team-container{
+    nav{
         flex-direction: column;
-    }
-    .team-container-img{
-        grid-template-columns: repeat(1,1fr);
     }
  }
