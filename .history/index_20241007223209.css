@@ -119,7 +119,7 @@ nav li{
     border-radius: 8px;
     text-align: center;
     position: relative;
-    bottom: 80px;
+    bottom: ;
 }
 .ten-last-year h5{
     font-size: 3rem;
@@ -174,7 +174,7 @@ nav li{
     header{
         padding: 20px;
     }
-    nav, .team-container,.fact-card-container,.sponsors-img,.features-container {
+    nav, .team-container,.fact-card-container,.sponsors-img {
         flex-direction: column;
     }
     .team-container-img{
@@ -184,11 +184,6 @@ nav li{
     .sponsors-img img{
         margin-left: 160px;  
     }
-    .features-container img {
-        width: 100%;
-    }
-
-    
     
  }
 
@@ -196,7 +191,7 @@ nav li{
     header{
         padding: 50px;
     }
-    nav,.team-container,.fact-card-container,.sponsors-img,.features-container {
+    nav,.team-container,.fact-card-container,.sponsors-img {
         flex-direction: column;
     }
     .team-container-img{
@@ -208,10 +203,6 @@ nav li{
     }
     .sponsors-img img{
         margin-left: 280px;  
-    }
-    .features-container img {
-        width: 100%;
-        margin-left: 10px;
     }
     
    
